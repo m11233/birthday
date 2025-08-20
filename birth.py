@@ -11,7 +11,7 @@ st.title("🎉 Happy Birthday, Bestie! 🎈")
 
 # Put images inside each column
 
-st.image(r"C:\Users\Incorta\Pictures\Screenshots\Screenshot (54).png", caption="Birthday Fun 🎉", width=300)
+st.image(Screenshot (54).png", caption="Birthday Fun 🎉", width=300)
 
 
 
@@ -42,6 +42,7 @@ if st.button("Click here for a surprise! 🎁"):
 
 # 🕒 Footer
 st.caption(f"Sent on {date.today().strftime('%B %d, %Y')} 💌")
+
 
 
 
